@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>JQuery UI - autocomplete - Ajax</title>
+    <link href="css/jquery-ui.css" rel="stylesheet">
+  </head>
+  <body>
+  	
+   	<label for="color">Estanteria</label>
+   	<input type="text" id="color">
+
+
+
+   		
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script type="text/javascript">
+	
+	
+	$(document).ready(function() {
+ 
+		$('#color').autocomplete({
+			source: function(request, response){
+				$.ajax({
+					url:"colores.php",
+					dataType:"json",
+					data:{q:request.term},
+					success: function(data){
+						response(data);
+					}
+ 
+				});
+			},
+			minLength: 1,
+			select: function(event,ui){
+				alert("Selecciono: "+ ui.item.label);
+			}
+          
+    
+		});
+ 
+	});
+    </script>
+  </body>
+</html>

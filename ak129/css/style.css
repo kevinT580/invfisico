@@ -1,0 +1,89 @@
+body{
+		font: 62.5% "Trebuchet MS", sans-serif;
+		margin: 5px;
+	}
+	.demoHeaders {
+		margin-top: 2em;
+	}
+	#dialog-link {
+		padding: .4em 1em .4em 20px;
+		text-decoration: none;
+		position: relative;
+	}
+	#dialog-link span.ui-icon {
+		margin: 0 5px 0 0;
+		position: absolute;
+		left: .2em;
+		top: 50%;
+		margin-top: -8px;
+	}
+	#icons {
+		margin: 0;
+		padding: 0;
+	}
+	#icons li {
+		margin: 2px;
+		position: relative;
+		padding: 4px 0;
+		cursor: pointer;
+		float: left;
+		list-style: none;
+	}
+	#icons span.ui-icon {
+		float: left;
+		margin: 0 4px;
+	}
+	.fakewindowcontain .ui-widget-overlay {
+		position: absolute;
+	}
+	select {
+		width: 200px;
+	}
+	body{
+		background: gray;
+		font-family: Helvetica;
+  }
+  section{
+		background: white;
+		padding: 5px;
+		width: 50%;
+  }
+  header{
+		background: white;
+		font-size: 35px;
+		padding: 5px;
+		width: 50%;
+  }
+  nav, footer{
+		background: #333;
+		padding: 5px;
+		color: white;
+		width: 50%;
+  }
+  nav ul{
+		margin: 0px;
+		padding: 0px;
+  }
+  nav ul li{
+		margin: 0px;
+		margin-right: 10px;
+		display: inline-block;
+  }
+  nav ul li a{
+		color: white;
+		font-weight: bold;
+  }
+
+  table {
+	width: 100%;
+	border-collapse: collapse;
+}
+table, td, th {
+	border: 1px solid black;
+}
+
+table th {background-color: #33D1FF; }
+
+table tr:nth-child(odd) {background-color: #FFFFFF;}
+
+table tr:nth-child(even) {background-color: #72C8F9;}

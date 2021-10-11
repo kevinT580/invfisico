@@ -1,0 +1,45 @@
+/*body{
+	background: gray;}
+	/*font-family: Helvetica;
+}
+/*section{
+	background: white;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+	width: 100%;
+}
+header{
+	background: white;
+	font-size: 35px;
+	padding: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+nav, footer{
+	background: #333;
+	padding: 5px;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+nav ul{
+	margin: 0px;
+	padding: 0px;
+}
+nav ul li{
+	margin: 0px;
+	margin-right: 10px;
+	display: inline-block;
+}
+nav ul li a{
+	color: white;
+	font-weight: bold;
+}
+table, td, th {
+	width: 100%;
+	border-collapse: collapse;
+	border: 1px solid black;
+}*/
