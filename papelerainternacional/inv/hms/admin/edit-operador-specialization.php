@@ -9,14 +9,14 @@ if(isset($_POST['submit']))
 {
 $docspecialization=$_POST['operadorspecilization'];
 $sql=mysqli_query($con,"update  operadorSpecilization set specilization='$docspecialization' where id='$id'");
-$_SESSION['msg']="Especialidad Medica Actualizada !!";
+$_SESSION['msg']="DEPARTAMENTO ACTUALIZADO !!";
 } 
 
 ?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Editar | Especialidad Medica</title>
+		<title>Editar |</title>
 		
 		<link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
 		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
@@ -46,7 +46,7 @@ $_SESSION['msg']="Especialidad Medica Actualizada !!";
 						<section id="page-title">
 							<div class="row">
 								<div class="col-sm-8">
-									<h1 class="mainTitle">Editar | Especialidad Medica</h1>
+									<h1 class="mainTitle">Editar | Departamento</h1>
 																	</div>
 								<ol class="breadcrumb">
 									<li>
@@ -67,7 +67,7 @@ $_SESSION['msg']="Especialidad Medica Actualizada !!";
 										<div class="col-lg-6 col-md-12">
 											<div class="panel panel-white">
 												<div class="panel-heading">
-													<h5 class="panel-title">Especialidad a editar ...</h5>
+													<h5 class="panel-title">Depto. a editar ...</h5>
 												</div>
 												<div class="panel-body">
 								<p style="color:red;"><?php echo htmlentities($_SESSION['msg']);?>
@@ -75,7 +75,7 @@ $_SESSION['msg']="Especialidad Medica Actualizada !!";
 													<form role="form" name="dcotorspcl" method="post" >
 														<div class="form-group">
 															<label for="exampleInputEmail1">
-															   Actualizar información de Especialización
+															   Actualizar información de servicio
 															</label>
 
 	<?php 

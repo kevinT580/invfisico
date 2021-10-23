@@ -112,10 +112,10 @@ error:function (){}
 													<form role="form" name="adddoc" method="post" onSubmit="return valid();">
 														<div class="form-group">
 															<label for="operadorSpecialization">
-																Área del operador
+																Tipo servicio
 															</label>
 							<select name="operadorspecialization" class="form-control" required="true">
-																<option value="">Seleccionar área</option>
+																<option value="">Seleccionar Tipo</option>
 <?php $ret=mysqli_query($con,"select * from operadorspecilization");
 while($row=mysqli_fetch_array($ret))
 {

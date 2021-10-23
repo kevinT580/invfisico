@@ -27,14 +27,14 @@
 											<i class="ti-user"></i>
 										</div>
 										<div class="item-inner">
-											<span class="title"> Operadores </span><i class="icon-arrow"></i>
+											<span class="title"> MANTENIMIENTOS</span><i class="icon-arrow"></i>
 										</div>
 									</div>
 								</a>
 								<ul class="sub-menu">
 									<li>
 										<a href="operador-specilization.php">
-											<span class="title"> Área de Operadores </span>
+											<span class="title"> Tipo de servicio </span>
 										</a>
 									</li>
 									<li>
@@ -44,7 +44,7 @@
 									</li>
 									<li>
 										<a href="Manage-operadors.php">
-											<span class="title"> Administración de Operadores </span>
+											<span class="title"> Mantenimiento usuarios/operador </span>
 										</a>
 									</li>
 									

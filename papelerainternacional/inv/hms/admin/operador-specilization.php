@@ -7,7 +7,7 @@ check_login();
 if(isset($_POST['submit']))
 {
 $sql=mysqli_query($con,"insert into operadorSpecilization(specilization) values('".$_POST['operadorspecilization']."')");
-$_SESSION['msg']="Especialidad del medico agregada exitosamente !!";
+$_SESSION['msg']="REGISTRO INGRESADO EXITOSAMENTE !!";
 }
 
 if(isset($_GET['del']))
