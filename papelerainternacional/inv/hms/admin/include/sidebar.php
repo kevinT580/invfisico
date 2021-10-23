@@ -51,53 +51,7 @@
 								</ul>
 								</li>
 
-				<li>
-								<a href="javascript:void(0)">
-									<div class="item-content">
-										<div class="item-media">
-											<i class="ti-user"></i>
-										</div>
-										<div class="item-inner">
-											<span class="title"> Recepción </span><i class="icon-arrow"></i>
-										</div>
-									</div>
-								</a>
-								<ul class="sub-menu">
-									
-									<li>
-										<a href="manage-users.php">
-											<span class="title"> Administración de Recepción </span>
-										</a>
-									</li>
-									<li>
-										<a href="registration-recep.php">
-											<span class="title"> Agregar Recepcionista</span>
-										</a>
-									</li>
-								</ul>
-								</li>
-								<li>
-								<a href="javascript:void(0)">
-									<div class="item-content">
-										<div class="item-media">
-											<i class="ti-user"></i>
-										</div>
-										<div class="item-inner">
-											<span class="title"> Pacientes </span><i class="icon-arrow"></i>
-										</div>
-									</div>
-								</a>
-								<ul class="sub-menu">
-									
-									<li>
-										<a href="manage-patient.php">
-											<span class="title"> Administración de Pacientes </span>
-										</a>
-									</li>
-									
-								</ul>
-								</li>	
-
+								
 <li>
 								<a href="appointment-history.php">
 									<div class="item-content">
@@ -105,7 +59,7 @@
 											<i class="ti-file"></i>
 										</div>
 										<div class="item-inner">
-											<span class="title"> Historial de Citas </span>
+											<span class="title"> PENDIENTE </span>
 										</div>
 									</div>
 								</a>
@@ -150,41 +104,7 @@
 									</div>
 								</a>
 							</li>						
-				<li>
-								<a href="javascript:void(0)">
-									<div class="item-content">
-										<div class="item-media">
-											<i class="ti-files"></i>
-										</div>
-										<div class="item-inner">
-											<span class="title"> Reporte por fecha </span><i class="icon-arrow"></i>
-										</div>
-									</div>
-								</a>
-								<ul class="sub-menu">
-									
-									<li>
-										<a href="between-dates-reports.php">
-											<span class="title">Genera Reporte </span>
-										</a>
-									</li>
-
-									
-									
-								</ul>
-								<li>
-								<a href="patient-search.php">
-									<div class="item-content">
-										<div class="item-media">
-											<i class="ti-search"></i>
-										</div>
-										<div class="item-inner">
-											<span class="title"> Buscar Pacientes </span>
-										</div>
-									</div>
-								</a>
-							</li>
-								</li>
+				
 
 						</ul>
 						<!-- end: CORE FEATURES -->

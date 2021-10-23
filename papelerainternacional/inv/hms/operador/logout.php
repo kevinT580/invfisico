@@ -10,5 +10,5 @@ session_unset();
 $_SESSION['errmsg']="Inicio Exitoso";
 ?>
 <script language="javascript">
-document.location="../../index.html";
+document.location="/inv/invfisico/papelerainternacional/inv/index.html";
 </script>

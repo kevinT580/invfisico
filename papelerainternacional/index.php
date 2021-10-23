@@ -29,7 +29,7 @@
 			<ul class="nav navbar-nav navbar-right">
 				<li class="propClone"><a href="index.php">HOME</a></li>
 				<li class="propClone"><a href="contacto.php">CONTACTANOS</a></li>
-				<li class="propClone"><a href="login.php">LOGIN</a></li>
+				<li class="propClone"><a href="/inv/invfisico/papelerainternacional/inv/">INGRESO A APLICACION</a></li>
 			</ul>
 		</div>
 	</div>

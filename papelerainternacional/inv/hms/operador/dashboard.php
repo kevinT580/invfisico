@@ -65,7 +65,7 @@ check_login();
 											<h2 class="StepTitle">ESTANTERIA A BUSCAR</h2>
 											
 											<section>
-            <form action="/hospital/hospital/hms/operador/ak129/vistas/ver.php" method="POST" >
+            <form action="/inv/invfisico/papelerainternacional/inv/hms/operador/ak129/vistas/ver.php" method="POST" >
                 
             <p><b>Estanteria:</b>			      
             <input type="text" id="estante" name="estanteria">

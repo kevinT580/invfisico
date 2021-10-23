@@ -41,7 +41,7 @@ while($row=mysqli_fetch_array($query))
 								</a>
 								<ul class="dropdown-menu dropdown-dark">
 									<li>
-										<a href="edit-profile.php">
+										<a href=" ">
 											Mi Perfil
 										</a>
 									</li>

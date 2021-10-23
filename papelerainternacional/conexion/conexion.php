@@ -1,7 +1,7 @@
 <?php
 
     function conectar(){
-        $con = mysqli_connect("localhost","root","Guatemala+2020","invfisico");
+        $con = mysqli_connect("localhost","root","","hms");
         return $con;
     }
 ?>

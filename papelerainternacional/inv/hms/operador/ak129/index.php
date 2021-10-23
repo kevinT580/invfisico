@@ -22,7 +22,7 @@
         </nav>
 
         <section>
-            <form action="vistas/ver.php" method="POST" >
+            <form action="\inv\invfisico\papelerainternacional\inv\hms\operador\ak129\vistas/ver.php" method="POST" >
                 
             <p><b>Estanteria:</b>			      
             <input type="text" id="estante" name="estanteria">
