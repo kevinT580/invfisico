@@ -36,63 +36,50 @@
 		</div>
 	</div>
 	</nav>
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12 text-center">
-				<div class="text-homeimage">
-					<div class="maintext-image" data-scrollreveal="enter top over 1.5s after 0.1s">
-						<br>
-						</div>
-					<div class="subtext-image" data-scrollreveal="enter bottom over 1.7s after 0.3s">
-						<br>
-					</div>
-					<div class="subtext-image" data-scrollreveal="enter bottom over 1.7s after 0.3s">
-						<br>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+	<div>
 </header>
-<div class="item content" >
+<div class="item content">
 	<div class="container toparea">
 		<div class="row text-center">
 			<div class="col-md-4">
 				<div class="col editContent">
-					<h3 class="numbertext"></h3>
+					<h3 class="numbertext">VALORES</h3>
 					<p>
-								</p>
+
+
+
+" "
+
+
+
+						</p>
+				</div>
 				</div>
 				<!-- /.col-md-4 -->
 			</div>
 			<!-- /.col-md-4 col -->
-			<div class="col-md-4 editContent">
-				<div class="col">
+			<div class="col-md-4 editContent"style="center">
+				<div class="center">
 
-					<h3 class="numbertext"> </h3>
+					<h3 class="numbertext" style= "center">NUESTROS VALORES</h3>
 					<p>
-						 	</p>
+                    Es un empresa multilatina que se dedica a la fabricación, conversión y comercialización de productos de cuidado personal con la más alta calidad y estándares del mercado…		</p>
 				</div>
 				<!-- /.col -->
 			</div>
 			<!-- /.col-md-4 col -->
-			<div class="col-md-4 editContent">
-				<div class="col">
-					<h3 class="numbertext"> </h3>
-					<p>
-					 	</p>
-				</div>
+		
 
 
 			</div>
 		</div>
-			</div>
+		
+	</div>
 </div>
 
 
 <!-- CALL TO ACTION =============================-->
-<section class="content-block" style="background-color:#007553;">
+<section class="content-block" style="background-color:#007553; center">
 <div class="container text-center">
 	<div class="row">
 		<div class="col-sm-10 col-sm-offset-1">
