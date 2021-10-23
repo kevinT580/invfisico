@@ -73,46 +73,8 @@ $num_rows1 = mysqli_num_rows($result1);
 										</div>
 									</div>
 								</div>
-								<div class="col-sm-4">
-									<div class="panel panel-white no-radius text-center">
-										<div class="panel-body">
-											<span class="fa-stack fa-2x"> <i class="fa fa-square fa-stack-2x text-primary"></i> <i class="fa fa-terminal fa-stack-1x fa-inverse"></i> </span>
-											<h2 class="StepTitle"> Citas Asignadas</h2>
-											
-											<p class="links cl-effect-1" >
-												<a href="book-appointment.php">
-													<a href="appointment-history.php"style="color:rgb(127, 209, 127)">
-												<?php $sql= mysqli_query($con,"SELECT * FROM appointment" );
-$num_rows2 = mysqli_num_rows($sql);
-{
-?>
-											Total de Citas :<?php echo htmlentities($num_rows2);  } ?>	
-												</a>
-												</a>
-											</p>
-										</div>
-									</div>
-								</div>
+							
 
-<div class="col-sm-4">
-									<div class="panel panel-white no-radius text-center">
-										<div class="panel-body">
-											<span class="fa-stack fa-2x"> <i class="fa fa-square fa-stack-2x text-primary"></i> <i class="fa fa-smile-o fa-stack-1x fa-inverse"></i> </span>
-											<h2 class="StepTitle">Administracion de Pacientes</h2>
-											
-											<p class="links cl-effect-1">
-												<a href="manage-patient.php">
-<?php $result = mysqli_query($con,"SELECT * FROM tblpatient ");
-$num_rows = mysqli_num_rows($result);
-{
-?>
-Total de Pacientes :<?php echo htmlentities($num_rows);  
-} ?>		
-</a>
-											</p>
-										</div>
-									</div>
-								</div>
 
 
 

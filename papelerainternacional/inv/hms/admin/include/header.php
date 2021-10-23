@@ -6,13 +6,13 @@
 							<i class="ti-align-justify"></i>
 						</a>
 						<a class="navbar-brand" href="#">
-							<h2 style="padding-top:20%; color:#000 ">HNO</h2>
+							<h2 style="padding-top:1%; color:#000 ">S.O.-INVVENTARIOS</h2>
 						</a>
 						<a href="#" class="sidebar-toggler pull-right visible-md visible-lg" data-toggle-class="app-sidebar-closed" data-toggle-target="#app">
 							<i class="ti-align-justify"></i>
 						</a>
 						<a class="pull-right menu-toggler visible-xs-block" id="menu-toggler" data-toggle="collapse" href=".navbar-collapse">
-							<span class="sr-only">NAvegacion</span>
+							<span class="sr-only">Navegacion</span>
 							<i class="ti-view-grid"></i>
 						</a>
 					</div>
@@ -21,7 +21,7 @@
 						<ul class="nav navbar-right">
 					
 								<li  style="padding-top:5% ">
-								<h2>Hospital Nor-Oriente</h2>
+								<h2>Sistema de Inventarios</h2>
 							</li>
 						
 						
