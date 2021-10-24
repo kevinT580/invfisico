@@ -53,14 +53,17 @@
 
 								
 <li>
-								<a href="appointment-history.php">
+								<a href="/inv/invfisico/papelerainternacional/inv/hms/operador/ak129/vistas/rcompara.php">
 									<div class="item-content">
 										<div class="item-media">
 											<i class="ti-file"></i>
 										</div>
 										<div class="item-inner">
-											<span class="title"> PENDIENTE </span>
+											<span class="title"> REPORTE COMPARACIÓN  </span>
+											
 										</div>
+
+										
 									</div>
 								</a>
 							</li>

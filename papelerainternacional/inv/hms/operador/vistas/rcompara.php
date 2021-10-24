@@ -84,6 +84,8 @@
         <nav>
             <ul>
                 <li><a href="../admin.php">Inicio</a></li>
+
+                
             </ul>
         </nav>
         <section>

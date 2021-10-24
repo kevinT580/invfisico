@@ -83,7 +83,7 @@
 
         <nav>
             <ul>
-                <li><a href="../admin.php">Inicio</a></li>
+                <li><a href="/inv/invfisico/papelerainternacional/inv/hms/admin/dashboard.php">Inicio</a></li>
             </ul>
         </nav>
         <section>
